@@ -91,8 +91,6 @@ public class VitorAlmeida implements Developer {
   </table>
 </div>
 
----
-
 <!-- MÉTRICAS DE ATIVIDADE -->
 
 ## 📈 Métricas de Atividade
@@ -128,8 +126,7 @@ public class VitorAlmeida implements Developer {
 | 🗂️ Projeto | 📌 Descrição | 🔧 Stack |
 |:---:|:---|:---:|
 | 🛒 **Abacat** | E-commerce completo com gateway de pagamento | `Node.js` `Prisma` `Mercado Pago` |
-| 🔐 **Auth System** | Autenticação segura com JWT e controle de acesso | `Java` `Spring Boot` `Spring Security` |
-| 📦 **REST APIs** | APIs escaláveis com padrão MVC e boas práticas | `Spring Boot` `PostgreSQL` `Maven` |
+| 🔐 **HUBSimulator** | HUB que faz integração com Mercado Livre e Shopee para vendas de produtos | `Java 17` `Spring Boot` |
 
 </div>
 
