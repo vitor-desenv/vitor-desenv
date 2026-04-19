@@ -26,10 +26,10 @@
 @Component
 public class VitorAlmeida implements Developer {
 
-  String name        = "Vitor Almeida";
-  String role        = "Backend Developer";
-  String focus       = "Java • Spring Boot • APIs REST";
-  boolean remote     = true;
+  String nome  = "Vitor Almeida";
+  String cargo = "Backend Developer";
+  String foco  = "Java • Spring Boot • APIs REST";
+
   boolean openToWork = true;
 
   String[] stack = {
@@ -37,9 +37,15 @@ public class VitorAlmeida implements Developer {
     "PostgreSQL", "SAP HANA", "SQL"
   };
 
-  String goal =
-    "Arquitetura sólida, código limpo" +
-    " e sistemas que escalam.";
+  String objetivo =
+    "Construir sistemas escaláveis com código limpo.";
+
+  String proximoNivel =
+    "Resolvo desafios de vagas (ex: PicPay) para evoluir lógica e performance.";
+
+  String mentalidade() {
+    return "Consistência > Motivação";
+  }
 }
 ```
 
