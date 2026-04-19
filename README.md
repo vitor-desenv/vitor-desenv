@@ -76,9 +76,7 @@ public class VitorAlmeida implements Developer {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-</div><!-- SOBRE MIM -->
-
-<img align="left" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
 
 <!-- ESTATÍSTICAS PRINCIPAIS -->
 
