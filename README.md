@@ -111,8 +111,8 @@ public class VitorAlmeida implements Developer {
 
 | 🗂️ Projeto | 📌 Descrição | 🔧 Stack |
 |:---:|:---|:---:|
-| 🛒 **Abacat** | E-commerce completo com gateway de pagamento | `Node.js` `Prisma` `Mercado Pago` |
-| 🔐 **HUBSimulator** | HUB que faz integração com Mercado Livre e Shopee para vendas de produtos | `Java 17` `Spring Boot` |
+| 🛒 **Abacat** | E-commerce com gateway de pagamento | `Node.js` `JWT` `Mercado Pago` |
+| 🌐 **HUBSimulator** | HUB que faz integração com Mercado Livre e Shopee para vendas de produtos | `Java 17` `Spring Boot` |
 
 </div>
 
@@ -153,5 +153,5 @@ public class VitorAlmeida implements Developer {
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56a0,60:0a3060,100:0d1117&height=110&section=footer" width="100%"/>
-  <sub><b>⚡ "First, solve the problem. Then, write the code."</b> — John Johnson</sub>
+  <sub><b>⚡ "Primeiro, resolva o problema. Depois, escreva o código."</b> — John Johnson</sub>
 </div>
