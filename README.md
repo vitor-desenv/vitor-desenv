@@ -99,24 +99,6 @@ public class VitorAlmeida implements Developer {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-desenv&theme=github_dark" width="97%" alt="Histórico de contribuições"/>
 </div>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitor-desenv&theme=github_dark" alt="Repos por linguagem"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-desenv&theme=github_dark" alt="Linguagem mais commitada"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitor-desenv&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <!-- PROJETOS EM DESTAQUE -->
 
 ## 🚀 Projetos em Destaque
