@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=vitor-desenv&style=for-the-badge&color=0e75b6&label=VISITAS+AO+PERFIL"/>
 </div>
 
----
-
 <!-- SOBRE MIM -->
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -49,8 +47,6 @@ public class VitorAlmeida implements Developer {
 
 <br clear="right"/>
 
----
-
 <!-- TECH STACK -->
 
 ## 🛠️ Tech Stack
@@ -71,8 +67,6 @@ public class VitorAlmeida implements Developer {
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 </div>
-
----
 
 <!-- ESTATÍSTICAS PRINCIPAIS -->
 
@@ -112,8 +106,6 @@ public class VitorAlmeida implements Developer {
 
 </div>
 
----
-
 <!-- EM EVOLUÇÃO -->
 
 ## 📈 Em Evolução Constante
@@ -129,8 +121,6 @@ public class VitorAlmeida implements Developer {
 | ☁️ AWS Cloud | `██████` | **Iniciando** |
 
 </div>
-
----
 
 <!-- GRÁFICO DE CONTRIBUIÇÕES -->
 
