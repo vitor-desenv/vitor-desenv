@@ -140,11 +140,11 @@ public class VitorAlmeida implements Developer {
 
 | Habilidade | Progresso | Nível |
 |:---|:---:|:---:|
-| ☕ Java + Spring Boot | `████████████████░░░░` | **Avançado** |
-| 🗄️ SQL & Banco de Dados | `███████████████░░░░░` | **Avançado** |
-| 🏛️ Clean Arch & SOLID | `████████████░░░░░░░░` | **Intermediário** |
-| 🧩 Microsserviços | `████████░░░░░░░░░░░░` | **Desenvolvendo** |
-| ☁️ AWS Cloud | `██████░░░░░░░░░░░░░░` | **Iniciando** |
+| ☕ Java + Spring Boot | `████████████████` | **Avançado** |
+| 🗄️ SQL & Banco de Dados | `███████████████` | **Avançado** |
+| 🏛️ Clean Arch & SOLID | `████████████` | **Intermediário** |
+| 🧩 Microsserviços | `████████████` | **Intermediário** |
+| ☁️ AWS Cloud | `██████` | **Iniciando** |
 
 </div>
 
