@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,100:1a56a0&height=220&section=header&text=Vitor%20Almeida&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20SQL&descAlignY=62&descColor=90c4f8&descSize=17" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vitor-desenv/vitor-desenv/main/banner.svg" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
