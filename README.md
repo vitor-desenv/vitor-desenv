@@ -41,7 +41,7 @@ public class VitorAlmeida implements Developer {
     "Construir sistemas escaláveis com código limpo.";
 
   String proximoNivel =
-    "Resolvo desafios de vagas (ex: PicPay) para evoluir lógica e performance.";
+    "Resolvo desafios de vagas para evoluir lógica e performance.";
 
   String mentalidade() {
     return "Consistência > Motivação";
