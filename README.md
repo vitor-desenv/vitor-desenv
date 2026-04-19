@@ -49,10 +49,6 @@ public class VitorAlmeida implements Developer {
 }
 ```
 
-<br clear="left"/>
-
----
-
 <!-- TECH STACK -->
 
 ## 🛠️ Tech Stack
@@ -89,7 +85,7 @@ public class VitorAlmeida implements Developer {
 ## 📊 Estatísticas
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitor-desenv&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
