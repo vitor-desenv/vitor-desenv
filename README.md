@@ -3,10 +3,9 @@
 <!-- ============================================================ -->
 
 
-
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%9A%80+Backend+Developer+apaixonado+por+arquitetura;%E2%98%95+Java+%2B+Spring+Boot+%7C+APIs+REST+escaláveis;%F0%9F%93%8A+SAP+HANA+%7C+PostgreSQL+%7C+SQL+Avançado;%F0%9F%94%A5+Clean+Code+%7C+SOLID+%7C+Microsserviços;%F0%9F%8C%8E+Sempre+aprendendo%2C+sempre+entregando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%9A%80+Backend+Developer+apaixonado+por+arquitetura;%E2%98%95+Java+%2B+Spring+Boot+%7C+APIs+REST+escaláveis;%F0%9F%93%8A+SAP+HANA+%7C+PostgreSQL+%7C+SQL+Avançado;%F0%9F%94%A5+Clean+Code+%7C+SOLID+%7C+Microsserviços;%F0%9F%8C%8E+Sempre+aprendendo%2C+sempre+entregando"/>
 </div>
 
 <br/>
