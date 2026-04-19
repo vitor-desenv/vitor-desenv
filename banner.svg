@@ -1,0 +1,15 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#0a2a5e"/>
+      <stop offset="100%" stop-color="#1a56a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <path d="M0,140 C150,100 300,170 450,130 C600,90 750,160 900,120 L900,220 L0,220 Z" fill="#1a56a0" opacity="0.3"/>
+  <path d="M0,160 C120,130 280,180 450,150 C620,120 780,170 900,140 L900,220 L0,220 Z" fill="#0a3060" opacity="0.5"/>
+  <path d="M0,180 C200,160 350,195 500,175 C650,155 800,185 900,165 L900,220 L0,220 Z" fill="#0d1117" opacity="0.8"/>
+  <text x="450" y="88" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Vitor Almeida</text>
+  <text x="450" y="128" font-family="Arial,sans-serif" font-size="16" fill="#90c4f8" text-anchor="middle">Backend Developer | Java &amp; Spring Boot | REST APIs | SQL</text>
+</svg>
