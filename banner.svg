@@ -1,15 +1,64 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
+    <!-- Background gradient -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="60%" stop-color="#0a2a5e"/>
+      <stop offset="50%" stop-color="#0a2a5e"/>
       <stop offset="100%" stop-color="#1a56a0"/>
     </linearGradient>
+
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Light line gradient -->
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
   </defs>
+
+  <!-- Background -->
   <rect width="900" height="220" fill="url(#bg)"/>
-  <path d="M0,140 C150,100 300,170 450,130 C600,90 750,160 900,120 L900,220 L0,220 Z" fill="#1a56a0" opacity="0.3"/>
-  <path d="M0,160 C120,130 280,180 450,150 C620,120 780,170 900,140 L900,220 L0,220 Z" fill="#0a3060" opacity="0.5"/>
-  <path d="M0,180 C200,160 350,195 500,175 C650,155 800,185 900,165 L900,220 L0,220 Z" fill="#0d1117" opacity="0.8"/>
-  <text x="450" y="88" font-family="Arial,sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Vitor Almeida</text>
-  <text x="450" y="128" font-family="Arial,sans-serif" font-size="16" fill="#90c4f8" text-anchor="middle">Backend Developer | Java &amp; Spring Boot | REST APIs | SQL</text>
+
+  <!-- Decorative waves -->
+  <path d="M0,150 C200,100 400,200 900,130" stroke="url(#lineGlow)" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M0,170 C300,140 500,200 900,150" stroke="#00c6ff" stroke-width="1.5" fill="none" opacity="0.3"/>
+
+  <!-- Floating code symbols -->
+  <text x="120" y="80" fill="#00c6ff" font-size="28" opacity="0.2">&lt;/&gt;</text>
+  <text x="750" y="150" fill="#00c6ff" font-size="24" opacity="0.2">{ }</text>
+
+  <!-- Name -->
+  <text x="450" y="90"
+        font-family="Segoe UI, sans-serif"
+        font-size="48"
+        font-weight="bold"
+        fill="#ffffff"
+        text-anchor="middle"
+        filter="url(#glow)">
+    Vitor Almeida
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="125"
+        font-family="Segoe UI, sans-serif"
+        font-size="16"
+        fill="#90c4f8"
+        text-anchor="middle">
+    Backend Developer • Java • Spring Boot • APIs REST • SQL
+  </text>
+
+  <!-- Bottom highlight line -->
+  <line x1="300" y1="140" x2="600" y2="140"
+        stroke="url(#lineGlow)"
+        stroke-width="2"
+        opacity="0.6"/>
+
 </svg>
