@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%9A%80+Backend+Developer+apaixonado+por+arquitetura;%E2%98%95+Java+%2B+Spring+Boot+%7C+APIs+REST+escaláveis;%F0%9F%93%8A+SAP+HANA+%7C+PostgreSQL+%7C+SQL+Avançado;%F0%9F%94%A5+Clean+Code+%7C+SOLID+%7C+Microsserviços;%F0%9F%8C%8E+Sempre+aprendendo%2C+sempre+entregando"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%9A%80%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot;%E2%98%95%20APIs%20REST%20escal%C3%A1veis%20e%20bem%20estruturadas;%F0%9F%93%8A%20SAP%20HANA%20%7C%20PostgreSQL%20%7C%20SQL%20Avan%C3%A7ado;%F0%9F%94%A5%20Clean%20Code%20%7C%20SOLID%20%7C%20Microsservi%C3%A7os;%F0%9F%8C%8E%20Sempre%20aprendendo%2C%20sempre%20entregando" alt="Typing SVG" />
 </div>
 
 <br/>
