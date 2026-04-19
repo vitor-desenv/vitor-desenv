@@ -20,8 +20,6 @@
 
 <!-- SOBRE MIM -->
 
-<img align="left" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ### 👨‍💻 Sobre mim
 
 ```java
@@ -81,64 +79,6 @@ public class VitorAlmeida implements Developer {
 </div><!-- SOBRE MIM -->
 
 <img align="left" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### 👨‍💻 Sobre mim
-
-```java
-@Component
-public class VitorAlmeida implements Developer {
-
-  String name        = "Vitor Almeida";
-  String role        = "Backend Developer";
-  String focus       = "Java • Spring Boot • APIs REST";
-  boolean remote     = true;
-  boolean openToWork = true;
-
-  String[] stack = {
-    "Java", "Spring Boot", "Node.js",
-    "PostgreSQL", "SAP HANA", "SQL"
-  };
-
-  String goal =
-    "Arquitetura sólida, código limpo" +
-    " e sistemas que escalam.";
-}
-```
-
-<br clear="left"/>
-
----
-
-<!-- TECH STACK -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**💡 Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**💾 Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-**⚙️ Ferramentas & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-</div>
 
 <!-- ESTATÍSTICAS PRINCIPAIS -->
 
