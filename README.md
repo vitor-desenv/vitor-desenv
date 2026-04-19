@@ -20,7 +20,7 @@
 
 <!-- SOBRE MIM -->
 
-### 👨‍💻 Sobre mim
+### 🧑🏻‍💻 Sobre mim
 
 ```java
 @Component
@@ -49,7 +49,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- TECH STACK -->
 
-🛠️ Tecnologias e Skills
+### 🛠️ Tecnologias e Skills
 
 <div align="center">
 
@@ -80,7 +80,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- ESTATÍSTICAS PRINCIPAIS -->
 
-💹 Estatísticas
+### 💹 Estatísticas
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -97,7 +97,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- MÉTRICAS DE ATIVIDADE -->
 
-📈 Métricas de Atividade
+### 📈 Métricas de Atividade
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-desenv&theme=github_dark" width="97%" alt="Histórico de contribuições"/>
@@ -105,7 +105,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- PROJETOS EM DESTAQUE -->
 
-🚀 Projetos
+### 🚀 Projetos
 
 <div align="center">
 
@@ -118,7 +118,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- EM EVOLUÇÃO -->
 
-📈 Em Evolução Constante
+### 📈 Em Evolução Constante
 
 <div align="center">
 
@@ -134,7 +134,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- GRÁFICO DE CONTRIBUIÇÕES -->
 
-🐍 Contribuições
+### 🐍 Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitor-desenv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1a3a6e&hide_border=true&radius=6" width="97%" alt="Contribution graph"/>
@@ -142,7 +142,7 @@ public class VitorAlmeida implements Developer {
 
 <!-- CONECTE-SE -->
 
-🌐 Vamos nos conectar!
+### 🌐 Vamos nos conectar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-almeida-4a7a58273/">
