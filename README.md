@@ -15,7 +15,7 @@
   <a href="https://github.com/vitor-desenv">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vitor-desenv&style=for-the-badge&color=0e75b6&label=VISITAS+AO+PERFIL"/>
+  <!--<img src="https://komarev.com/ghpvc/?username=vitor-desenv&style=for-the-badge&color=0e75b6&label=VISITAS+AO+PERFIL"/>-->
 </div>
 
 <!-- SOBRE MIM -->
